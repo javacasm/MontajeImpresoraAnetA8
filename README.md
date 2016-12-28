@@ -1,6 +1,6 @@
 # Montaje Impresora 3D Anet A8
 
-![Anet A8](http://www.anet3d.com/uploads/allimg/160705/1-160F511024L11.jpg)
+![Anet A8](./images/Esquema.jpg)
 
 [Descripción del fabricante](http://www.anet3d.com/English/3D_Printer/106.html)
 
