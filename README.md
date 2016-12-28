@@ -8,8 +8,23 @@
 
 ## Imágenes ya montada
 
-![Frontal](http://www.anet3d.com/uploads/allimg/160705/1-160F5110344101.jpg)
+![Ya montada](http://www.anet3d.com/uploads/allimg/160705/1-160F5110344101.jpg)
 
+Vista trasera de la fuente de alimentación
+
+![Vista trasera de la fuente de alimentación](http://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/18/1458292349711277.jpg)
+
+Detalle de extrusor
+
+![Detalle de extrusor](http://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/18/1458292350551504.jpg)
+
+Detalle del eje Z
+
+![Detalle del eje Z](http://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/18/1458292348501410.jpg)
+
+Detalle de la conexión de la electrónica
+
+![Detalle de la conexión de la electrónica](http://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/18/1458292353324332.jpg)
 
 Una review detallada para verla montada y funcionando
 
