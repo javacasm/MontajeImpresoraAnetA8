@@ -50,4 +50,16 @@ Una review detallada para verla montada y funcionando
 
 ![Soporte del rollo de filamento sobre la impresora](http://thingiverse-production-new.s3.amazonaws.com/renders/5d/6a/b5/ef/29/f3ccdd27d2000e3f9255a7e3e2c48800_preview_featured.jpg)
 
+[Interruptor de alimentación](http://www.thingiverse.com/thing:1474108)
+
+![Interruptor de alimentación](http://thingiverse-production-new.s3.amazonaws.com/renders/0d/6a/00/00/b3/55d0a9598215d0b61d296acb0aa32dd2_preview_featured.jpg)
+
+[Reducción de "wobble" del Z](http://www.thingiverse.com/thing:1858435)
+
+![Reducción de "wobble" del Z](http://thingiverse-production-new.s3.amazonaws.com/renders/8d/2c/57/4d/4c/f3ccdd27d2000e3f9255a7e3e2c48800_preview_featured.jpg)
+
+[Tapa de la electrónica](http://www.thingiverse.com/thing:1803120)
+
+![Tapa de la electrónica](http://thingiverse-production-new.s3.amazonaws.com/renders/25/68/f2/21/e0/428d10fca8ed8acbcf023f6dc3fb5776_preview_featured.jpg)
+
 [Más mejoras](https://groups.google.com/d/msg/asrob-uc3m-impresoras-3d/Cg3HgZSAcig/oTkeBMENAgAJ)
