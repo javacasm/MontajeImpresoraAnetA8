@@ -6,6 +6,48 @@
 
 [Comprada en GearBest por 150€](http://www.gearbest.com/3d-printers-3d-printer-kits/pp_337314.html?wid=21)
 
-[Mejoras](https://groups.google.com/forum/#!topic/asrob-uc3m-impresoras-3d/Cg3HgZSAcig)
+## Imágenes ya montada
 
-[Recopilatorio de temas y mejoras](http://www.spainlabs.com/foros/tema-Anet-A8-Dudas-y-soluciones-Recopilatorio-de-temas)
+![Frontal](http://www.anet3d.com/uploads/allimg/160705/1-160F5110344101.jpg)
+
+
+Una review detallada para verla montada y funcionando
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aPlcv1NKC6I" frameborder="0" allowfullscreen></iframe>
+
+## Montaje
+
+[Vídeos de montaje (7 vídeos)](https://www.youtube.com/playlist?list=PLQox1aWxzCN3J9EtjGQgz9QfJK7DmFYg5)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AXyZLaHBEMQ?list=PLQox1aWxzCN3J9EtjGQgz9QfJK7DmFYg5" frameborder="0" allowfullscreen></iframe>
+
+## Mejoras
+
+[Mejoras propuestas en CloneWars](https://groups.google.com/forum/#!topic/asrob-uc3m-impresoras-3d/Cg3HgZSAcig)
+
+[Recopilatorio de temas y mejoras en spainlabs](http://www.spainlabs.com/foros/tema-Anet-A8-Dudas-y-soluciones-Recopilatorio-de-temas)
+
+[Ventilador mejorado](http://www.thingiverse.com/thing:1620630)
+
+![Ventilador mejorado](http://thingiverse-production-new.s3.amazonaws.com/renders/e0/9e/af/19/1f/7af3ac0cc1b722551b029107e1191d6b_preview_featured.jpg)
+
+[Ajuste del eje Z](http://www.thingiverse.com/thing:1479176)
+
+![Ajuste Eje z](http://thingiverse-production-new.s3.amazonaws.com/renders/e1/43/b9/6b/0a/0864c5545d248f50b7b15c2f0f078991_preview_featured.jpg)
+
+[Ajuste de tensión ejes X y Y](http://www.thingiverse.com/thing:1492411)
+
+![Ajuste tensión eje Y](http://www.thingiverse.com/thing:1492411)
+
+
+![Ajuste tensión eje X](http://thingiverse-production-new.s3.amazonaws.com/renders/38/f6/e7/07/68/126cef282e4dec3b96390c8b6d24e061_preview_featured.JPG)
+
+[Guía para filamento](http://www.thingiverse.com/thing:1764285)
+
+![Guia de filamento](http://thingiverse-production-new.s3.amazonaws.com/renders/d6/91/9a/66/5f/22bb11e05cc674a70000e7a5a304ac16_preview_featured.jpg)
+
+[Soporte para el rollo de filamento sobre la impresora](http://www.thingiverse.com/thing:1624641)
+
+![Soporte del rollo de filamento sobre la impresora](http://thingiverse-production-new.s3.amazonaws.com/renders/5d/6a/b5/ef/29/f3ccdd27d2000e3f9255a7e3e2c48800_preview_featured.jpg)
+
+[Más mejoras](https://groups.google.com/d/msg/asrob-uc3m-impresoras-3d/Cg3HgZSAcig/oTkeBMENAgAJ)
