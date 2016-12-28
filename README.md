@@ -8,11 +8,7 @@
 
 ## Imágenes ya montada
 
-![Ya montada](http://www.anet3d.com/uploads/allimg/160705/1-160F5110344101.jpg)
-
-Vista trasera de la fuente de alimentación
-
-![Vista trasera de la fuente de alimentación](http://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/18/1458292349711277.jpg)
+![Ya montada](./images/yamontada.jpg)
 
 Detalle de extrusor
 
