@@ -6,6 +6,17 @@
 
 [Comprada en GearBest por 150€](http://www.gearbest.com/3d-printers-3d-printer-kits/pp_337314.html?wid=21)
 
+## Características
+
+* Precisión del eje XY: 0.012mm
+* Precisión eje Z: 0.004mm
+* Área de impresión: 220 x 220 x 240mm
+* Diámetro del Nozzle: 0.4mm
+* Alto de capa: 0.1-0.3mm
+* Filamento de 1.75mm
+* Velocidad de impresión: 100mm / s
+* Cama caliente
+
 ## Imágenes ya montada
 
 ![Ya montada](./images/yamontada.jpg)
@@ -22,9 +33,72 @@ Detalle de la conexión de la electrónica
 
 ![Detalle de la conexión de la electrónica](http://des.gearbest.com/uploads/pdm-desc-pic/Electronic/image/2016/03/18/1458292353324332.jpg)
 
-Una review detallada para verla montada y funcionando
+[Una review detallada para verla montada y funcionando](https://www.youtube.com/embed/aPlcv1NKC6I)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aPlcv1NKC6I" frameborder="0" allowfullscreen></iframe>
+
+## Contenido
+
+### Cajas
+
+Las piezas vienen perfectamente empaquetadas distribuidad en 3 bandejas
+
+![Cajas](./images/cajas.jpg)
+
+### Cables
+
+Todos los cables están perfectamente etiquetados
+
+![cables](./images/cables.jpg)
+
+### Cama caliente
+
+La impresora dispone de cama caliente para mejorar la aderencia del material
+
+![Cama caliente](./images/CamaCaliente.jpg)
+
+### Electrónica
+
+Placa específica de la impresora Anet A8
+
+![Electrónica](./images/electronica.jpg)
+
+![esquema](http://www.anet3d.com/uploads/allimg/160705/1-160F50ZP1192.JPG)
+
+### Extrusor
+
+![extrusor](./images/extrusor.jpg)
+
+
+### Herramientas
+
+Incluyes todas las herramientas necesarias, incluidos unos alicates pelacables
+
+![Herramientas](./images/herramientas.jpg)
+
+
+### Motores
+
+Todos los motores tienen los conectores sin posibilidad de error al conectarlos
+
+![motores](./images/motores.jpg)
+
+### Piezas impresas
+
+Sólo incluye 3 piezas impresas: las del eje X y el difusor del ventilador de capa. Todas impresas con gran calidad
+
+![piezas impresas](./images/piezaEjeX.jpg)
+
+
+### Tornillería
+
+Toda la tornillería está empaquetada en bolsas perfectamente etiquetadas
+
+![Tornillería](./images/tornilleria.jpg)
+
+### Piezas electrónicas
+
+![piezas electrónica](./images/ventilador1.jpg)
 
 ## Montaje
 
@@ -45,7 +119,7 @@ Una review detallada para verla montada y funcionando
 
 ### [Ajuste de tensión ejes X y Y](http://www.thingiverse.com/thing:1492411)
 
-![Ajuste tensión eje Y](http://www.thingiverse.com/thing:1492411)
+![Ajuste tensión eje Y](http://thingiverse-production-new.s3.amazonaws.com/renders/7c/64/de/85/48/72c37f118e0ac281e0bd1ffd578043b0_preview_featured.JPG)
 
 
 ![Ajuste tensión eje X](http://thingiverse-production-new.s3.amazonaws.com/renders/38/f6/e7/07/68/126cef282e4dec3b96390c8b6d24e061_preview_featured.JPG)
