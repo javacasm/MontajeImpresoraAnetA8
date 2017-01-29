@@ -144,6 +144,10 @@ Toda la tornillería está empaquetada en bolsas perfectamente etiquetadas
 
 ![Tapa de la electrónica](http://thingiverse-production-new.s3.amazonaws.com/renders/25/68/f2/21/e0/428d10fca8ed8acbcf023f6dc3fb5776_preview_featured.jpg)
 
+### [Sensor inductivo adaptado](http://www.gearbest.com/3d-printer-parts/pp_591321.html?wid=21)
+
+![sensor inductivo adaptado](http://gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2016/11/28/goods-img/1482085982916042263.jpeg)
+
 ### [Sensor inductivo](http://www.thingiverse.com/thing:1745261)
 
 ![Sensor inductivo](http://thingiverse-production-new.s3.amazonaws.com/renders/2c/13/58/84/72/7b56bbb7ed7826618daa18e773e2d02a_preview_featured.jpg)
