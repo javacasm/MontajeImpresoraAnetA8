@@ -153,3 +153,5 @@ Toda la tornillería está empaquetada en bolsas perfectamente etiquetadas
 ### [Mejoras propuestas en CloneWars](https://groups.google.com/forum/#!topic/asrob-uc3m-impresoras-3d/Cg3HgZSAcig)
 
 ### [Recopilatorio de temas y mejoras en spainlabs](http://www.spainlabs.com/foros/tema-Anet-A8-Dudas-y-soluciones-Recopilatorio-de-temas)
+
+### [Recopilatorio de temas y mejoras en spainlabs](http://www.spainlabs.com/foros/tema-Anet-A8-POST-DEFINITIVO-Recopilatorio-de-temas)
