@@ -37,6 +37,15 @@ y de la conexión de la fuente
 ![Conexión de la fuente](./images/Power supply wiring.JPG)
 * Instrucciones de uso
 * Guía de solución de problemas de impresión
+
+## Antes de empezar
+
+Ponte un película para toda la familia en la tele y poneos a quitar el papel protector de todas las piezas ¡que se lleva tu buen rato!
+
+Carga el atornillador eléctrico a tope, lo vas a necesitar
+
+Como herramientas sólo necesitarás una regla de unos 20cm y un martillo
+
 ## Prueba de la electrónica
 
 Al tratarse de un producto de bajo coste vamos a empezar haciendo una prueba de toda la electrónica
@@ -99,6 +108,33 @@ En primer lugar asegurarnos que tenemos la fuente configurada con el voltaje ade
 
 ## Montaje del marco
 
-Está formado por piezas de ¿vinilo? de ¿10mm?
+He seguido el estupendo tutorial que se indica en las Instrucciones
+
+https://www.youtube.com/watch?v=-tiHfzBQZpI&feature=youtu.be
+
+Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 
 ![marco](./images/marco.jpg)
+
+![marco1](./images/Marco1.jpg)
+
+![MarcoTrasero.jpg](./images/MarcoTrasero.jpg)
+
+![MarcoTrasero_final_carreraY.jpg](./images/MarcoTrasero_final_carreraY.jpg)
+
+![SoporteMotorY.jpg](./images/SoporteMotorY.jpg)
+
+![MotroY1.jpg](./images/MotroY1.jpg)
+
+![MotroY2.jpg](./images/MotroY2.jpg)
+
+![AnclajeMotorY.jpg](./images/AnclajeMotorY.jpg)
+
+![Anclaje_Traser_Marco.jpg](./images/Anclaje_Traser_Marco.jpg)
+
+![Polea_Y.jpg](./images/Polea_Y.jpg)
+
+## Mejoras
+
+Interruptor
+Tensores de las correas
