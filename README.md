@@ -148,6 +148,12 @@ Toda la tornillería está empaquetada en bolsas perfectamente etiquetadas
 
 ![sensor inductivo adaptado](http://gloimg.gearbest.com/gb/pdm-product-pic/Electronic/2016/11/28/goods-img/1482085982916042263.jpeg)
 
+Montaje
+
+![Montaje](http://image.prntscr.com/image/a5592d36de684a1db956e8f0bc904588.png)
+
+[Ajustes del firmware para usarlo](https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling)
+
 ### [Sensor inductivo](http://www.thingiverse.com/thing:1745261)
 
 ![Sensor inductivo](http://thingiverse-production-new.s3.amazonaws.com/renders/2c/13/58/84/72/7b56bbb7ed7826618daa18e773e2d02a_preview_featured.jpg)
