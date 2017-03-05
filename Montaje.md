@@ -37,3 +37,44 @@ y de la conexión de la fuente
 ![Conexión de la fuente](./images/Power supply wiring.JPG)
 * Instrucciones de uso
 * Guía de solución de problemas de impresión
+## Prueba de la electrónica
+
+Al tratarse de un producto de bajo coste vamos a empezar haciendo una prueba de toda la electrónica
+
+El montaje es muy sencillo puesto que todos los componentes, cables y conectores vienen perfectamente etiquetados. Además los conectores son de una única posición, evitando la posibilidad de error en la conexión.
+
+Seguimos el esquema de las Instrucciones
+
+![Mainboard-English.jpg](./images/Mainboard-English.jpg)
+
+para montar todos los componentes
+
+![ElectronicaConectada.jpg](./images/ElectronicaConectada.jpg)
+
+Una vez con todo conectado, alimentamos la fuente y vemos como el LCD nos muestra el mensaje de bienvenida
+
+![LCD_on.jpg](./images/LCD_on.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vDhdwLY_nVI" frameborder="0" allowfullscreen></iframe>
+
+Probamos los motores
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bFvsuObbfUg" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6w-1lO4rbo" frameborder="0" allowfullscreen></iframe>
+
+Probamos los finales de carrera
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/va7veMapYbk" frameborder="0" allowfullscreen></iframe>
+
+### Preparación de la fuente
+
+En primer lugar asegurarnos que tenemos la fuente configurada con el voltaje adecuado (220v en mi caso)
+
+## Montaje del marco
+
+Está formado por piezas de ¿vinilo? de ¿10mm?
+
+![marco](./images/marco.jpg)
