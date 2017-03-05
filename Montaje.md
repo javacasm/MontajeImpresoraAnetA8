@@ -69,6 +69,30 @@ Probamos los finales de carrera
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/va7veMapYbk" frameborder="0" allowfullscreen></iframe>
 
+Probamos los motores
+
+
+Probamos el calentamiento
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F0RLkw7QR8U?list=PLDxBiw1MlK6TWEmcCEOVxKXqP2w6k6AQU" frameborder="0" allowfullscreen></iframe>
+
+Probamos el extrusor
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IMX0blK4zWE?list=PLDxBiw1MlK6TWEmcCEOVxKXqP2w6k6AQU" frameborder="0" allowfullscreen></iframe>
+
+
+Probamos los ventiladores
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8IP1E52RH5U" frameborder="0" allowfullscreen></iframe>
+
+
+Todo OK!!!
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tt9GHIKazuA?list=PLDxBiw1MlK6TWEmcCEOVxKXqP2w6k6AQU" frameborder="0" allowfullscreen></iframe>
+
 ### Preparación de la fuente
 
 En primer lugar asegurarnos que tenemos la fuente configurada con el voltaje adecuado (220v en mi caso)
