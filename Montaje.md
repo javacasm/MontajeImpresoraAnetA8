@@ -112,6 +112,8 @@ He seguido el estupendo tutorial que se indica en las Instrucciones
 
 https://www.youtube.com/watch?v=-tiHfzBQZpI&feature=youtu.be
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J8tX-Kfb1og" frameborder="0" allowfullscreen></iframe>
+
 Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 
 ![marco](./images/marco.jpg)
@@ -134,7 +136,37 @@ Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 
 ![Polea_Y.jpg](./images/Polea_Y.jpg)
 
+## Cableado
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=EB5Q3_sJ-Tk" frameborder="0" allowfullscreen></iframe>
+
+## Puesta a punto
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ml1XGhJF4_E" frameborder="0" allowfullscreen></iframe>
+
 ## Mejoras
 
 Interruptor
 Tensores de las correas
+
+[Mejoras para la Anet A8](http://www.thingiverse.com/AlexHahn81/collections/anet-a8-frame-upgrade/page:1)
+
+### Autonivelado
+
+[Sensor vendido por Anet para la A8](https://es.aliexpress.com/store/product/The-Lastest-Coming-Newest-Auto-Leveling-Position-Sensor-for-Anet-A8-Prusa-i3-3D-Printer/1081732_32697290633.html)
+
+
+Tutorial para autonivelado de Anet A8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uMQcnMVPcX4" frameborder="0" allowfullscreen></iframe>
+
+[Autonivelado Super-tutorial](https://drive.google.com/drive/folders/0BzJhbIBcf3g3aV9TMTFYQjJQZjg)
+
+[Autonivelado para Anet A8](https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling)
+
+Esquema pinout de los endstop
+
+![esquema pinout de los endstop](https://3dprint.wiki/_media/reprap/anet/a8/improvement/wiring.png?cache=&w=693&h=590&tok=61e237)
+
+
+
+### [Compendio de post SpainLabs](https://www.spainlabs.com/foros/tema-Anet-A8-Dudas-y-soluciones-Recopilatorio-de-temas?page=3)
