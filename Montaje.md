@@ -134,6 +134,8 @@ Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 
 ![MarcoTrasero.jpg](./images/MarcoTrasero.jpg)
 
+### Eje Y
+
 ![MarcoTrasero_final_carreraY.jpg](./images/MarcoTrasero_final_carreraY.jpg)
 
 ![SoporteMotorY.jpg](./images/SoporteMotorY.jpg)
@@ -147,6 +149,9 @@ Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 ![Anclaje_Traser_Marco.jpg](./images/Anclaje_Traser_Marco.jpg)
 
 ![Polea_Y.jpg](./images/Polea_Y.jpg)
+
+### Eje z
+
 
 ### Eje X
 
