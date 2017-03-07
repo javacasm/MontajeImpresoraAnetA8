@@ -40,11 +40,11 @@ y de la conexión de la fuente
 
 ## Antes de empezar
 
-Ponte un película para toda la familia en la tele y poneos a quitar el papel protector de todas las piezas ¡que se lleva tu buen rato!
+* Ponte un película para toda la familia en la tele y poneos a quitar el papel protector de todas las piezas ¡se lleva un buen rato!
 
-Carga el atornillador eléctrico a tope, lo vas a necesitar
+* Carga el atornillador eléctrico a tope, lo vas a necesitar
 
-Como herramientas sólo necesitarás una regla de unos 20cm y un martillo
+Como herramientas además de las incluídas sólo necesitarás una regla de unos 20cm y un martillo
 
 ## Prueba de la electrónica
 
@@ -52,7 +52,13 @@ Al tratarse de un producto de bajo coste vamos a empezar haciendo una prueba de 
 
 El montaje es muy sencillo puesto que todos los componentes, cables y conectores vienen perfectamente etiquetados. Además los conectores son de una única posición, evitando la posibilidad de error en la conexión.
 
-Seguimos el esquema de las Instrucciones
+### Preparación de la fuente
+
+En primer lugar asegurarnos que tenemos la fuente configurada con el voltaje adecuado (220v en mi caso)
+
+### Montaje de la electrónica
+
+Seguiremos el esquema de las Instrucciones
 
 ![Mainboard-English.jpg](./images/Mainboard-English.jpg)
 
@@ -67,6 +73,8 @@ Una vez con todo conectado, alimentamos la fuente y vemos como el LCD nos muestr
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDhdwLY_nVI" frameborder="0" allowfullscreen></iframe>
 
+### Motores y fines de carrera
+
 Probamos los motores
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bFvsuObbfUg" frameborder="0" allowfullscreen></iframe>
@@ -80,6 +88,7 @@ Probamos los finales de carrera
 
 Probamos los motores
 
+### Calentando
 
 Probamos el calentamiento
 
@@ -90,6 +99,7 @@ Probamos el extrusor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IMX0blK4zWE?list=PLDxBiw1MlK6TWEmcCEOVxKXqP2w6k6AQU" frameborder="0" allowfullscreen></iframe>
 
+### Enfriando
 
 Probamos los ventiladores
 
@@ -102,17 +112,19 @@ Todo OK!!!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tt9GHIKazuA?list=PLDxBiw1MlK6TWEmcCEOVxKXqP2w6k6AQU" frameborder="0" allowfullscreen></iframe>
 
-### Preparación de la fuente
 
-En primer lugar asegurarnos que tenemos la fuente configurada con el voltaje adecuado (220v en mi caso)
+## Montaje
 
-## Montaje del marco
+Puedes seguir el vídeotutorial o bien las Instrucciones incluídas en los pdf de la tarjeta SD
 
-He seguido el estupendo tutorial que se indica en las Instrucciones
+Yo he seguido el estupendo vídeo tutorial que se indica en las Instrucciones (ten cuidado y mira el vídeo adecuado a tu modelo, el mio es ... pero puede ser ....)
 
 https://www.youtube.com/watch?v=-tiHfzBQZpI&feature=youtu.be
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J8tX-Kfb1og" frameborder="0" allowfullscreen></iframe>
+
+
+### Montaje del marco
 
 Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 
@@ -135,6 +147,8 @@ Está formado por piezas de metacrilato negro de ¿10mm? de grosor
 ![Anclaje_Traser_Marco.jpg](./images/Anclaje_Traser_Marco.jpg)
 
 ![Polea_Y.jpg](./images/Polea_Y.jpg)
+
+### Eje X
 
 ## Cableado
 
