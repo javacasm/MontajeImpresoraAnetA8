@@ -10,13 +10,22 @@ Pulsador para el tornillo del extrusor
 
 ¿[Ajuste fino del eje Z](http://www.thingiverse.com/thing:1776429)
 
+[Ventilador de capa mejorado](http://www.thingiverse.com/thing:2133328)
+
+[Spool para el rollo de plástico](http://www.thingiverse.com/thing:1624641)
+
 ## Autonivelado
 
 [Descripción de los distintos sensores y de las piezas que hay que imprimir para conectarlos](https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling)
 
 [Firmware independiente Skynet3D](https://www.facebook.com/skynet3ddevelopment/)
 
-Para mi sensor imprimo [esta pieza](https://www.thingiverse.com/thing:1751859/#files)
+[Ficheros (Firmware compilable y documentación)](https://drive.google.com/file/d/0B0Jb9SruV4vGc1JwaWVNbThodEU/view)
+
+Para mi sensor imprimo [esta pieza](https://www.thingiverse.com/thing:1751859/#files): La pieza no ajusta bien y hay que añadir otros agujeros...
+
+[Pieza para colocar el sensor](http://www.thingiverse.com/thing:1770044)
+
 
 [Video explicando como instalar autonivelado](https://www.youtube.com/embed/uMQcnMVPcX4)
 
