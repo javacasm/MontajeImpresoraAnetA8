@@ -1,5 +1,13 @@
 # Modificaciones
 
+## [Mosfet externo para controlar la cama caliente](https://3dprint.wiki/reprap/electronics/heatbed_mosfet)
+
+![mosfet externo](https://3dprint.wiki/_media/reprap/electronics/2psu.jpg?w=600&tok=541d88)
+
+## [Mejorar las conexiones eléctricas](https://3dprint.wiki/reprap/anet/a8/replace_connectors)
+
+![Mejorar las conexiones](https://3dprint.wiki/_media/reprap/anet/a8/photo_2016-11-05_01-19-40.jpg?w=600&tok=20ce8e)
+
 ## Varios
 
 [Guía para filamento](http://www.thingiverse.com/thing:1764285/#files)
