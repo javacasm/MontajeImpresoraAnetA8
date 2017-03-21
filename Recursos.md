@@ -2,6 +2,8 @@
 
 [Información sobre Anet A8](https://3dprint.wiki/reprap/anet/a8)
 
+[Tablero de Trello sobre Anet A8](https://trello.com/b/X1HL9kIf)
+
 ## Electrónica
 
 ![electronica](http://pic.made-in-china.com/6f3j00meETjZOFluqp/Anet-3D-Printer-Installation-Video-Links.jpg)
