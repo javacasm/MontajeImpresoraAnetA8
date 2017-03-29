@@ -10,6 +10,8 @@
 
 ## Varios
 
+![Interruptor](./images/ConexionAlimentacion.jpg)
+
 [Guía para filamento](http://www.thingiverse.com/thing:1764285/#files)
 
 ![guia filamento](http://thingiverse-production-new.s3.amazonaws.com/renders/d6/91/9a/66/5f/22bb11e05cc674a70000e7a5a304ac16_preview_featured.jpg)
