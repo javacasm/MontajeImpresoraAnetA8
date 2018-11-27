@@ -24,6 +24,10 @@ Pulsador para el tornillo del extrusor
 
 [Spool para el rollo de plástico](http://www.thingiverse.com/thing:1624641)
 
+## Placa OMV20 Anet
+
+https://www.staticboards.es/productos/ovm20anet/
+
 ## Autonivelado
 
 [Descripción de los distintos sensores y de las piezas que hay que imprimir para conectarlos](https://3dprint.wiki/reprap/anet/a8/improvement/autobedleveling)
